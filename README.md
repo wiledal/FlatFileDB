@@ -52,4 +52,4 @@ FOR INSTANCE:
 ```php
 $db = new FlatFileDB();
 $db->delete("dbtable.csv", $rowID);
-``
+```
