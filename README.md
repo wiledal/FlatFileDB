@@ -8,8 +8,6 @@ Features
 --------
 * Read and write to .csv file format for easy flat file db handling
 
----
-
 ## Angry example usage (I wrote this in frustration, it's all good though)
 
 ### get($table):
